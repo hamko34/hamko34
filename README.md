@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamko34
+- 👋 Hi, I'm a student at UPN "Veteran" Yogyakarta
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning JavaScript and its libraries
 - 💞️ I’m looking to collaborate on ...
